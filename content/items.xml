@@ -1,0 +1,4 @@
+<items gfxroot="gfx/items/" version="1">
+	<active quality="3" name="Meowscarada's weed" description="tooly" gfx="Meowscarada_head.png" maxcharges="90" chargetype="timed" cooldown="5" id="0"/>
+	<passive name="MeowscaradaStart" description="You are Meowscarada (Furry)"  gfx="Meowscarada_head.png" soulhearts="2"/>
+</items>

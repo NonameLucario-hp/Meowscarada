@@ -1,0 +1,41 @@
+<players 
+root="gfx/characters/costumes/" 
+portraitroot="gfx/ui/stage/" 
+nameimageroot="gfx/ui/boss/">
+
+	<player 
+	name="Meowscarada" 
+	skin="character_meowscarada.png" 
+	hp="6" armor="0" bombs="1"
+	nameimage="playername_meowscarada.png" 
+	portrait="charactermenu.png" 
+	skinColor="-1" 
+	costumeSuffix="meowscarada"
+	birthright="Weed gaming" 
+	
+	/>
+	
+	<player 
+	name="MeowscaradaB" 
+	skin="character_meowscarada_b.png" 
+	hp="0" armor="8" bombs="0"
+    nameimage="playername_meowscarada.png" 
+    portrait="playerportrait_meowscarada_b.png" 
+	skinColor="0" 
+	costumeSuffix="meowscarada" 
+	bSkinParent="Meowscarada"
+	birthright="Weed gaming!" 
+	/>	
+	
+</players>
+
+<!--
+	Skin Colors:
+	"-1": "Default",
+	"0": "White",
+	"1": "Black", 
+	"2": "Blue", 
+	"3": "Red", 
+	"4": "Green", 
+	"5": "Grey"
+!-->
